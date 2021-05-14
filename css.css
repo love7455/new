@@ -34,8 +34,7 @@ h2{
   color:orange;
   position: relative;
   top: 250px;
-  
-  margin: auto;
+  margin:0px;
 }
 .work{
   font-size: 40px;
